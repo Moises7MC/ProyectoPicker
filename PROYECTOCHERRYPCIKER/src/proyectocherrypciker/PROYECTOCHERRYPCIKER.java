@@ -15,7 +15,12 @@ public class PROYECTOCHERRYPCIKER {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Proyectazo");
+//        System.out.println("Proyectazo");
+//        
+//        System.out.println("Subiendo mi primer proyecto a PRD");
+//        System.out.println("**********************************");
+        
+        System.out.println("SUBIENDO A QAS");
     }
     
 }
